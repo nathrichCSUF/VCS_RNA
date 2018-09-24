@@ -1,12 +1,12 @@
 Class Name: CPSC 362 Software Engineering
 
-Name: Randy Le, Nathan, Alex;
+Name: Randy Le, Nathaniel Richards, Alex;
 
-Email: 97randy.le@gmail.com, 
+Email: 97randy.le@gmail.com, nathrich23@csu.fullerton.edu
 
 Team Name: RNA
 
-members: Randy Le, Nathan, Alex;
+members: Randy Le, Nathaniel, Alex;
 
 Intro:
 
