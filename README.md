@@ -12,7 +12,7 @@ Randy Le: 97Randy.le@gmail.com
 
 Alex Liao: ycl@csu.fullerton.edu
 
-Nathan: <email>
+Nathan: nathrich23@csu.fullerton.edu
 
 Dom: <email>
 
